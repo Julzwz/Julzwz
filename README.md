@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hola, soy Julio Enrique 👋
+**Ingeniero de Software Full Stack (.NET & React)**
 
-<!--
-**Julzwz/Julzwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy desarrollando **AvTech**, un ERP logístico robusto para gestión empresarial.
+Debido a acuerdos de confidencialidad comercial, el código fuente de mis proyectos principales es **Privado**.
 
-Here are some ideas to get you started:
+🚀 **Mi Stack:**
+* 💻 .NET 8 / C# / Web API
+* ⚛️ React.js / JavaScript
+* 🗄️ PostgreSQL / SQL Server
+* 🐳 Docker / Linux / Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Portafolio en Vivo:**
+Puedes probar el sistema real aquí: [sistema.avtech.com.mx](https://sistema.avtech.com.mx/)
+*(Solicita credenciales de acceso)*
