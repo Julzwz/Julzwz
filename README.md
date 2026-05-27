@@ -13,3 +13,5 @@ Debido a acuerdos de confidencialidad comercial, el código fuente de mis proyec
 🌐 **Portafolio en Vivo:**
 Puedes probar el sistema ERP real aquí: [sistema.avtech.com.mx](https://sistema.avtech.com.mx/)
 *(Solicita credenciales de acceso)*
+
+Videos Demo B2B: (https://drive.google.com/drive/folders/1efx06ba-wcQ4PJp1p1L4P3lUxCTS-FGA?usp=sharing)
