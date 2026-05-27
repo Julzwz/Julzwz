@@ -1,15 +1,15 @@
 ### Hola, soy Julio Enrique 👋
 **Ingeniero de Software Full Stack (.NET & React)**
 
-Actualmente estoy desarrollando **AvTech**, un ERP logístico robusto para gestión empresarial.
+Mis ultimos desarros fueron ERP logístico robusto para gestión empresarial, dos aplicaciones para un B2B de mayoristas.
 Debido a acuerdos de confidencialidad comercial, el código fuente de mis proyectos principales es **Privado**.
 
 🚀 **Mi Stack:**
-* 💻 .NET 8 / C# / Web API
-* ⚛️ React.js / JavaScript
+* 💻 .NET / C# / Web API
+* ⚛️ React.js / JavaScript, Css
 * 🗄️ PostgreSQL / SQL Server
-* 🐳 Docker / Linux / Nginx
+* 🐳 Docker / Linux / Nginx / Caddy
 
 🌐 **Portafolio en Vivo:**
-Puedes probar el sistema real aquí: [sistema.avtech.com.mx](https://sistema.avtech.com.mx/)
+Puedes probar el sistema ERP real aquí: [sistema.avtech.com.mx](https://sistema.avtech.com.mx/)
 *(Solicita credenciales de acceso)*
